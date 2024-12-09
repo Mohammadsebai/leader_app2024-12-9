@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695435971090",
+    "project_id": "newlife2001-49c6c",
+    "storage_bucket": "newlife2001-49c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695435971090:android:a5b72e00bebd7e14b466cb",
+        "android_client_info": {
+          "package_name": "com.example.leader_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38pS5Ku49DgzcVo8tWYp8HjnwISJC4h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695435971090:android:b137d15e28a3690ab466cb",
+        "android_client_info": {
+          "package_name": "com.example.new_life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38pS5Ku49DgzcVo8tWYp8HjnwISJC4h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
